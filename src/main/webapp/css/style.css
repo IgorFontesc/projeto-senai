@@ -1,0 +1,124 @@
+@charset "ISO-8859-1";
+
+/* INDEX */
+
+.navbar{
+    display: flex;
+    background-color: #000000;
+}
+
+.navbar-brand{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.navbar-brand:hover{
+    color: #ffffff;
+}
+
+.nav-link{
+    color: #ffffff;
+}
+
+.nav-link:hover{
+    color: #e69c15;
+
+}
+
+.login{
+    border: none;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.botao{
+   margin-top: 20px;
+   margin-left: 350px;
+}
+
+img{
+    max-width: 20px;
+    padding-right: 5px;
+}
+
+
+/* CADASTRO */
+
+.container{
+    margin: 0 auto;
+    width: 800px;
+}
+
+.formulario{
+    margin-top: 20px;
+    align-items: center;
+}
+
+.titulo{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.subTitulo{
+    font-size: 20px;
+    text-align: center;
+}
+
+.form{
+    margin-top: 10px;
+}
+
+label{
+    display: inline-block;
+    width: 180px;
+}
+
+input{
+    width: 450px;
+}
+
+.remuneracao{
+    width: 400px;
+}
+
+fieldset{
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-color: #000000;
+    box-shadow: 2px 2px 2px #000000;
+}
+
+.radio{
+    margin-top: 10px;
+    
+}
+
+.radio label{
+    display: inline;
+}
+
+.opcao{
+    margin-left: 145px;
+}
+
+.radio input{
+    background-color: #e69c15;
+    width: 50px;
+    
+}
+
+
+/* TABELA */
+
+.tabela{
+    padding: 20px;
+   
+}
+
+.botao_tabela{
+    display: flex;
+    justify-content: center;
+}
+
